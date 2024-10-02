@@ -2,8 +2,8 @@
 Changelog for package ess_imu_driver2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2024-10-01)
+------------------
 * port changes from imu_linux_example, remove V340 support
 * auto-detect/initialize IMU model at runtime
 
