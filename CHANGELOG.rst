@@ -2,6 +2,10 @@
 Changelog for package ess_imu_driver2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* bugfix - TimeCorrection class for PPS input
+
 2.0.1 (2024-10-01)
 ------------------
 * Update CMakeLists.txt - set macro PLATFORM to NONE
